@@ -59,14 +59,7 @@ OSStatus InputRenderProc(void *inRefCon,
    //	printf ("InputRenderProc!\n");
    MyAUGraphPlayer *player = (MyAUGraphPlayer*) inRefCon;
    
-   // have we ever logged input timing? (for offset calculation)
-   if (player->firstInputSampleTime < 0.0) {
-      player->firstInputSampleTime = inTimeStamp->mSampleTime;
-      if ((player->firstOutputSampleTime > -1.0) &&
-          (player->inToOutSampleTimeOffset < 0.0)) {
-         player->inToOutSampleTimeOffset = player->firstInputSampleTime - player->firstOutputSampleTime;
-      }
-   }
+
    
    // render into our buffer
    OSStatus inputProcErr = noErr;
