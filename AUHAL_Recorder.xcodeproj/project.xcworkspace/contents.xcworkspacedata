@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CH08_AUGraphInput.xcodeproj">
+      location = "self:/Users/alexanderbollbach/Desktop/CH08_AUGraphInput_2014/AUHAL_Recorder.xcodeproj">
    </FileRef>
 </Workspace>

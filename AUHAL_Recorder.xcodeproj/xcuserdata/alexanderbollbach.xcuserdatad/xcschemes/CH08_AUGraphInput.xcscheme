@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "01B17ACD14A510A6000E5E07"
-               BuildableName = "CH08_AUGraphInput"
-               BlueprintName = "CH08_AUGraphInput"
-               ReferencedContainer = "container:CH08_AUGraphInput.xcodeproj">
+               BuildableName = "AUHAL_Recorder"
+               BlueprintName = "AUHAL_Recorder"
+               ReferencedContainer = "container:AUHAL_Recorder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "01B17ACD14A510A6000E5E07"
-            BuildableName = "CH08_AUGraphInput"
-            BlueprintName = "CH08_AUGraphInput"
-            ReferencedContainer = "container:CH08_AUGraphInput.xcodeproj">
+            BuildableName = "AUHAL_Recorder"
+            BlueprintName = "AUHAL_Recorder"
+            ReferencedContainer = "container:AUHAL_Recorder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "01B17ACD14A510A6000E5E07"
-            BuildableName = "CH08_AUGraphInput"
-            BlueprintName = "CH08_AUGraphInput"
-            ReferencedContainer = "container:CH08_AUGraphInput.xcodeproj">
+            BuildableName = "AUHAL_Recorder"
+            BlueprintName = "AUHAL_Recorder"
+            ReferencedContainer = "container:AUHAL_Recorder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "01B17ACD14A510A6000E5E07"
-            BuildableName = "CH08_AUGraphInput"
-            BlueprintName = "CH08_AUGraphInput"
-            ReferencedContainer = "container:CH08_AUGraphInput.xcodeproj">
+            BuildableName = "AUHAL_Recorder"
+            BlueprintName = "AUHAL_Recorder"
+            ReferencedContainer = "container:AUHAL_Recorder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
